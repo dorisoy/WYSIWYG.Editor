@@ -162,3 +162,28 @@ E:\WPF\WPF WYSIWYG HTML Editor\obj\Debug\WPF WYSIWYG HTML Editor.csproj.CoreComp
 E:\WPF\WPF WYSIWYG HTML Editor\obj\Debug\WPF WYSIWYG HTML Editor.exe
 E:\WPF\WPF WYSIWYG HTML Editor\obj\Debug\WPF WYSIWYG HTML Editor.pdb
 E:\WPF\WPF WYSIWYG HTML Editor\obj\Debug\WPF WYSIWYG HTML Editor.csproj.ResolveComReference.cache
+E:\WPF\WYSIWYG.Editor\bin\Debug\WPF WYSIWYG HTML Editor.exe.config
+E:\WPF\WYSIWYG.Editor\bin\Debug\WPF WYSIWYG HTML Editor.exe
+E:\WPF\WYSIWYG.Editor\bin\Debug\WPF WYSIWYG HTML Editor.pdb
+E:\WPF\WYSIWYG.Editor\obj\Debug\WPF WYSIWYG HTML Editor.csprojAssemblyReference.cache
+E:\WPF\WYSIWYG.Editor\obj\Debug\WPF WYSIWYG HTML Editor.csproj.ResolveComReference.cache
+E:\WPF\WYSIWYG.Editor\obj\Debug\XAML\Image.baml
+E:\WPF\WYSIWYG.Editor\obj\Debug\XAML\Link.baml
+E:\WPF\WYSIWYG.Editor\obj\Debug\XAML\HtmlEditor.baml
+E:\WPF\WYSIWYG.Editor\obj\Debug\XAML\WebBrowser.baml
+E:\WPF\WYSIWYG.Editor\obj\Debug\XAML\Image.g.cs
+E:\WPF\WYSIWYG.Editor\obj\Debug\XAML\Link.g.cs
+E:\WPF\WYSIWYG.Editor\obj\Debug\XAML\HtmlEditor.g.cs
+E:\WPF\WYSIWYG.Editor\obj\Debug\XAML\WebEditor.g.cs
+E:\WPF\WYSIWYG.Editor\obj\Debug\XAML\WebBrowser.g.cs
+E:\WPF\WYSIWYG.Editor\obj\Debug\App.g.cs
+E:\WPF\WYSIWYG.Editor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WPF\WYSIWYG.Editor\obj\Debug\WPF WYSIWYG HTML Editor_MarkupCompile.cache
+E:\WPF\WYSIWYG.Editor\obj\Debug\WPF WYSIWYG HTML Editor_MarkupCompile.lref
+E:\WPF\WYSIWYG.Editor\obj\Debug\XAML\WebEditor.baml
+E:\WPF\WYSIWYG.Editor\obj\Debug\WPF WYSIWYG HTML Editor.g.resources
+E:\WPF\WYSIWYG.Editor\obj\Debug\WPF_WYSIWYG_HTML_Editor.Properties.Resources.resources
+E:\WPF\WYSIWYG.Editor\obj\Debug\WPF WYSIWYG HTML Editor.csproj.GenerateResource.cache
+E:\WPF\WYSIWYG.Editor\obj\Debug\WPF WYSIWYG HTML Editor.csproj.CoreCompileInputs.cache
+E:\WPF\WYSIWYG.Editor\obj\Debug\WPF WYSIWYG HTML Editor.exe
+E:\WPF\WYSIWYG.Editor\obj\Debug\WPF WYSIWYG HTML Editor.pdb
